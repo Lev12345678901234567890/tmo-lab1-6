@@ -9,3 +9,4 @@
 | 3 | [Подготовка обучающей и тестовой выборки, кросс-валидация и подбор гиперпараметров (KNN)](https://github.com/ugapanyuk/courses_current/wiki/LAB_TMO__KNN) — датасет Loan Prediction | [ноутбук](lab3/LAB3_knn_loan.ipynb), [отчёт](lab3/ОТЧЁТ%20ЛБ%20№%203.pdf) |
 | 4 | [Линейные модели, SVM и деревья решений](https://github.com/ugapanyuk/courses_current/wiki/LAB_TMO_TREES) — датасет Loan Prediction | [ноутбук](lab4/LAB4_models_loan.ipynb), [отчёт](lab4/ОТЧЁТ%20ЛБ%20№%204.pdf) |
 | 5 | [Ансамбли моделей машинного обучения. Часть 1](https://github.com/ugapanyuk/courses_current/wiki/LAB_TMO_ENSEMBLES_1) — датасет Loan Prediction | [ноутбук](lab5/LAB5_ensembles_loan.ipynb), [отчёт](lab5/ОТЧЁТ%20ЛБ%20№%205.pdf) |
+| 6 | [Ансамбли моделей машинного обучения. Часть 2](https://github.com/ugapanyuk/courses_current/wiki/LAB_TMO_ENSEMBLES_2) — датасет Loan Prediction | [ноутбук](lab6/LAB6_stacking_mlp_loan.ipynb), [отчёт](lab6/ОТЧЁТ%20ЛБ%20№%206.pdf) |
